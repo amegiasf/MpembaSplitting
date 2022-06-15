@@ -11,4 +11,5 @@ Where 'Temp' stands for  $ \widetilde{T}^{\mathrm{st}} $; 'theta' for  $ \theta^
 ## Transient results
 The values of  $ T^* $, and  $\theta $ at a given time  $t^* $ from direct simulation Monte Carlo (DSMC) and event-driven molecular dynamics (EDMD) simulation results are in the files with the following format:
 - 'Evolution_METHOD_ALPHA_BETA_EPSILON.txt'
-Where 'EPSILON' stands for the parameter $\varepsilon$ of the Splitting Thermostat.
+
+Where 'EPSILON' stands for the parameter  $\varepsilon $ of the Splitting Thermostat. In these files, the systems are initialized to  $T^*_0 = 1.5 $ and  $\theta_0=1 $.
